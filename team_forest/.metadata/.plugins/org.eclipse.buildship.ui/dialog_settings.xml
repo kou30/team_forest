@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<list key="arguments">
+			<item value="--init-script"/>
+			<item value="../.metadata/init.gradle"/>
+		</list>
+	</section>
+</section>

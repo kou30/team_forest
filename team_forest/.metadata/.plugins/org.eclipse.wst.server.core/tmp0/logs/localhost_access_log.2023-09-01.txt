@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Sep/2023:11:36:55 +0900] "GET / HTTP/1.1" 404 895
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:36:57 +0900] "GET /FamilyGenealogy/Logininfo HTTP/1.1" 200 662
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:36:57 +0900] "GET /FamilyGenealogy/css1/css2.css HTTP/1.1" 404 932
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:36:57 +0900] "GET /FamilyGenealogy/js/javaScript1.js HTTP/1.1" 404 936
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:36:57 +0900] "GET /favicon.ico HTTP/1.1" 404 906
+127.0.0.1 - - [01/Sep/2023:11:40:55 +0900] "GET / HTTP/1.1" 404 895
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:40:56 +0900] "GET /FamilyGenealogy/Logininfo HTTP/1.1" 200 662
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:40:56 +0900] "GET /FamilyGenealogy/js/javaScript1.js HTTP/1.1" 404 936
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:11:40:56 +0900] "GET /FamilyGenealogy/css1/css2.css HTTP/1.1" 404 932
