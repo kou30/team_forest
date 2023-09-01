@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\pleiades\2023-03\eclipse\team_forest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3048420846.index
+3578741684.index
+800840385.index
+237704990.index
+3480826836.index
+1671179264.index
