@@ -1,0 +1,11 @@
+CREATE TABLE shinamono(
+shinamono_id int AUTO_INCREMENT,
+oneself_id     CHAR(4) NOT NULL,
+kojin_id     CHAR(4) NOT NULL,
+re_time DATE   NOT NULL,
+bunrui VARCHAR(5)  NOT NULL,
+category VARCHAR(32)  NOT NULL,
+item VARCHAR(32)     NOT NULL,
+shinamono_name VARCHAR(32)  NOT NULL,
+shinamono_kingaku  INTEGER  NOT NULL,
+memo VARCHAR(100),PRIMARY KEY(shinamono_id));
