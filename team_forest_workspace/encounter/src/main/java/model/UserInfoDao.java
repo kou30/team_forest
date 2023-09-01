@@ -26,11 +26,11 @@ public class UserInfoDao {
 
 	//接続するユーザー名
 	//※ユーザー名が「test_user」でない場合は該当の箇所を変更してください
-	String USER_ID     = "root";
+	String USER_ID     = "forest_user";
 
 	//接続するユーザーのパスワード
 	//※パスワードが「test_pass」でない場合は該当の箇所を変更してください
-	String USER_PASS   = "root";
+	String USER_PASS   = "forest_pass";
 
 	public UserInfoDto doSelect(String inputUserId, String inputPassWord) {
 
