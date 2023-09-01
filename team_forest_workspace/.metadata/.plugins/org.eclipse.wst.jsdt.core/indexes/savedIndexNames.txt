@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+C:\Users\class.DESKTOP-HLMSUMQ\Desktop\team_forest\team_forest_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2253030278.index
-4074731772.index
-3716279498.index
-2612475023.index
