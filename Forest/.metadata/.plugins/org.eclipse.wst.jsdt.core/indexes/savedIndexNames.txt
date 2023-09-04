@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+C:\Users\class.DESKTOP-M15BVIK\Desktop\‹¤—L\team_forest\Forest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3321949985.index
-757060614.index
-4243413010.index
-4283610617.index
