@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+C:\Users\class.DESKTOP-HLMSUMQ\Desktop\team_forest\Forest\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-626639537.index
-1534654989.index
