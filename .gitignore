@@ -1,8 +1,19 @@
-bin/
-.metadata/
+# Eclipse specific
+.classpath
+.project
 .settings/
-tmp/
-*.log
+bin/
+target/
+*.tmp
 *.bak
 *.swp
-*.class
+*~.nib
+local.properties
+*.log
+*.ldb
+*.swp
+*.back
+*.bak
+*.tmp
+*.swm
+*.swo
