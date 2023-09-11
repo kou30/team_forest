@@ -1,0 +1,33 @@
+package dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.Cat;
+
+public class CatDAO {
+	// ネコの情報のリストを取得して戻す
+	public List<Cat>findAll() {
+		List<Cat>catList = new ArrayList<>();
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return catList;
+	}
+	// ネコの実績（里親が決まったネコ）のリストを取得して戻す
+	public List<Cat>findFin() {
+		List<Cat>catList = new ArrayList<>();
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return catList;
+	}
+	// ネコの情報を追加
+	public boolean create(Cat cat) {
+		//## 今回不要 ##############
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return true;
+	}
+}

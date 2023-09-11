@@ -1,0 +1,39 @@
+package dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.Reserve;
+
+public class ReserveDAO {
+	// 特定ネコの予約リストをデータベースからリストを取得して戻す
+	public List<Reserve>findFromCat(int catid) {
+		List<Reserve>reserveList = new ArrayList<>();
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return reserveList;
+	}
+	// 特定個人の予約リストをデータベースからリストを取得して戻す
+	public List<Reserve>findFromUser(String name) {
+		List<Reserve>reserveList = new ArrayList<>();
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return reserveList;
+	}
+	// 新たな予約をする
+	public boolean create(Reserve reserve) {
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return true;
+	}
+	// 既存の予約を削除する
+	public boolean delete(int reservedId) {
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return true;
+	}
+}

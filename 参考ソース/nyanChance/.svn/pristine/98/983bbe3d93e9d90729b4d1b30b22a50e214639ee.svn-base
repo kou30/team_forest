@@ -1,0 +1,13 @@
+CREATE TABLE CAT(
+    Id CHAR(6) PRIMARY KEY,
+    Name VARCHAR(10) NOT NULL,
+    Age INTEGER(10) NOT NULL,
+    Sex CHAR(2),
+    CatKind VARCHAR(10) NOT NULL,
+    IsFosterParents BOOLEAN DEFAULT FALSE,
+    Comment VARCHAR(100)
+);
+
+DROP TABLE CAT;
+
+

@@ -1,0 +1,31 @@
+package dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.User;
+
+public class UserDAO {
+	// ユーザーのリスト情報を取得して戻す
+	public List<User>findAll() {
+		List<User>userList = new ArrayList<>();
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return userList;
+	}
+	// ユーザー（一人）を新規登録
+	public boolean create(User user) {
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return true;
+	}
+	// ユーザーを削除する
+	public boolean delete() {
+		//##########################
+		//### ここにコードを書く ###
+		//##########################
+		return true;
+	}
+}

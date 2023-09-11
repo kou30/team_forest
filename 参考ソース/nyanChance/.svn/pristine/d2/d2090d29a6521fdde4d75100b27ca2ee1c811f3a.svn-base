@@ -1,0 +1,22 @@
+package model;
+
+import dao.UserDAO;
+
+public class LoginLogic {
+
+	public boolean execute(User user) {
+		User check = new User();
+		UserDAO dao = new UserDAO();
+		check = dao.login(user);
+		if (check.getName() != null) { return true; }
+		return false;
+	}
+
+
+
+/*	public boolean execute(User user) {
+		if (user.getPass().equals("1234")) { return true; }
+		return false;
+
+	} */
+}

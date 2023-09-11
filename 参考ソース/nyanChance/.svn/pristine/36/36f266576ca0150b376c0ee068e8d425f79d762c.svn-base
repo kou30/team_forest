@@ -1,0 +1,36 @@
+package model;
+import java.io.Serializable;
+import java.sql.Date;
+
+public class Reserve implements Serializable{
+
+	private int id;
+	private String userName;
+	private int catId;
+	private Date date;
+	private String comment;
+
+	public Reserve() {}
+	public Reserve(int id, String userName, int catId, Date date, String comment) {
+		this.id = id;
+		this.userName = userName;
+		this.catId = catId;
+		this.date = date;
+		this.comment = comment;
+	}
+	public Reserve(String userName, int catId, Date date, String comment) {
+		this.userName = userName;
+		this.catId = catId;
+		this.date = date;
+		this.comment = comment;
+	}
+
+	public int getId() {return id;}
+	public String getUserName() {return userName;}
+	public int getCatId() {return catId;}
+	public Date getDate() {return date;}
+	public String getComment() {return comment;}
+
+
+
+}
