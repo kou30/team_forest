@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* 	全てのWebページに適用される*/
+html{
+	font-family: sans-serif;
+}
+body{
+	margin: 0 0 0 0;
+	background-color:#ffd5ec;
+}
+.wrapper{
+	margin: 0 auto o auto;
+	max-width:960px;
+}
