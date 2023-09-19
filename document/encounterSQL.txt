@@ -1,0 +1,58 @@
+CREATE TABLE meibo(
+meibo_id int AUTO_INCREMENT PRIMARY KEY,
+user_nr int(4) NOT NULL,
+name VARCHAR(20) NOT NULL,
+yomi VARCHAR(30) NOT NULL,
+sex INT NOT NULL,
+birthday DATE ,
+bunrui VARCHAR(10),
+relationship INT,
+memo VARCHAR(100),
+image MEDIUMBLOB);
+
+drop table meibo;
+
+
+CREATE TABLE shinamono(
+shinamono_id int AUTO_INCREMENT PRIMARY KEY,
+user_nr     int NOT NULL,
+meibo_id int not null,
+aite_name     VARCHAR(10) NOT NULL,
+re_time DATE,
+bunrui INT  ,
+category INT  ,
+item INT     ,
+shinamono_name VARCHAR(32),
+shinamono_kingaku  INT default 0 ,
+memo VARCHAR(100));
+
+drop table shinamono;
+
+//ログインデータを保存するためのテーブルを作成するSQL
+
+CREATE TABLE USER_INFO (
+  USER_NR               Int AUTO_INCREMENT PRIMARY KEY,
+  USER_ID               VARCHAR(20) NOT NULL ,
+  USER_NAME             VARCHAR(20) NOT NULL ,
+  PASSWORD              VARCHAR(20) NOT NULL 
+);
+
+INSERT INTO USER_INFO (USER_ID, USER_NAME, PASSWORD) VALUES ("asd", "aaaa", "123456789");
+#自分の名前のユーザーも作ってみて下さい。
+
+drop table user_info;
+
+SELECT * FROM shinamono WHERE USER_NR="1"
+
+CREATE TABLE schedule (
+    id int AUTO_INCREMENT PRIMARY KEY,
+    userid int,
+    scheduledate date,
+    starttime time,
+    endtime time,
+    schedule VARCHAR(67),
+    schedulememo  VARCHAR(67)
+);
+
+DROP TABLE  schedule;
+
