@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T01:17:33.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="5Jxwld6KsTzvnHIPj1v4" version="21.7.5" type="device" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-05T05:15:20.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="Dwze735F_bEe2LGixk_K" version="22.0.2" type="device" pages="16">
   <diagram name="ページ1" id="MFC57rEejd_u72afK9wu">
-    <mxGraphModel dx="5113" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4967" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3732,13 +3732,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V-1pqXlVQxbwVEr0UMzv" name="名簿編集">
-    <mxGraphModel dx="1596" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1513" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bDflzrCHePjhaBbPgjPO-1" value="&lt;p style=&quot;margin-left:10.5pt;mso-para-margin-left:1.0gd&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;機能⑦　名簿一覧　編集機能&lt;/font&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;游ゴシック Light&amp;quot;;mso-ascii-theme-font:major-latin;&lt;br/&gt;mso-fareast-theme-font:major-latin;mso-hansi-theme-font:major-latin&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="86.17000000000007" width="964.52" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="bDflzrCHePjhaBbPgjPO-2" value="&lt;div style=&quot;padding: 0px 0px 0px 2px; font-size: 20px;&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;ＭＳ ゴシック&amp;quot;; font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px; font-size: 20px;&quot;&gt;ExecuteEdit&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-size: 20px;&quot;&gt;Meibo.java&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" parent="1" vertex="1">
           <mxGeometry x="519.9099999999994" y="246" width="160" height="110" as="geometry" />
         </mxCell>
@@ -4173,9 +4170,6 @@
             <mxPoint x="388.0825034032714" y="228.39999790567708" as="sourcePoint" />
             <mxPoint x="517.1699999999996" y="230" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bDflzrCHePjhaBbPgjPO-113" value="ExecuteEditMeibo" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="28.049999999999727" y="350" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
