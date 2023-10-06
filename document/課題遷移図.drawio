@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T05:39:11.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="-SdcMnGbZJTysasqCcj_" version="22.0.2" type="device" pages="32">
+<mxfile host="app.diagrams.net" modified="2023-10-06T01:06:29.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="8laNemXqsNnKyNipm3h2" version="22.0.2" type="device" pages="32">
   <diagram name="ページ1" id="MFC57rEejd_u72afK9wu">
     <mxGraphModel dx="4967" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2316,7 +2316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8N6kO8DtFJyjeDzTb3cl" name="ログインアーキテクチャー図">
-    <mxGraphModel dx="4821" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4140" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2616,8 +2616,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtlwApVjjy8ipi75qG7R-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;贈り物・頂き物・記念・年賀状送付管理・」お年玉管理・弔慶事金額を一括管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;container=0;fillColor=none;" parent="mtlwApVjjy8ipi75qG7R-1" vertex="1">
-          <mxGeometry y="244" width="370" height="11" as="geometry" />
+        <mxCell id="mtlwApVjjy8ipi75qG7R-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;贈り物・頂き物・記念・年賀状送付管理・お年玉管理&lt;br&gt;弔慶事金額を一括管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;container=0;fillColor=none;" parent="mtlwApVjjy8ipi75qG7R-1" vertex="1">
+          <mxGeometry y="220" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mtlwApVjjy8ipi75qG7R-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;カレンダー&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2180" y="520" width="140" height="30" as="geometry" />
@@ -6123,7 +6123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YmHA0ZggqIi4eE8hBpgY" name="品物登録遷移図">
-    <mxGraphModel dx="6908" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6512" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6956,19 +6956,19 @@
             <mxPoint x="-2608.27" y="694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="waPAlBG4NCvMOqTqAZPC-122" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.812;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="1" edge="1">
+        <mxCell id="waPAlBG4NCvMOqTqAZPC-122" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2233.9012330969895" y="992.1350000000001" as="sourcePoint" />
-            <mxPoint x="-2275.5" y="1017.1437200000001" as="targetPoint" />
+            <mxPoint x="-2210" y="990" as="sourcePoint" />
+            <mxPoint x="-2220" y="1034" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2247.14" y="1060.3300000000002" />
-              <mxPoint x="-2277.14" y="1090.3300000000002" />
-              <mxPoint x="-2317.14" y="1090.3300000000002" />
+              <mxPoint x="-2170" y="1060" />
+              <mxPoint x="-2200" y="1100" />
+              <mxPoint x="-2230" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="waPAlBG4NCvMOqTqAZPC-123" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;削除後&lt;br&gt;遷移&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2271.9700000000003" y="1040" width="70" height="30" as="geometry" />
+        <mxCell id="waPAlBG4NCvMOqTqAZPC-123" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;削除&lt;br&gt;遷移&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2202.83" y="1020" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="waPAlBG4NCvMOqTqAZPC-124" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.483;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7213,6 +7213,20 @@
         </mxCell>
         <mxCell id="RNFy5ln2JrSnP_ukEPDi-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;絞り込み&lt;br&gt;贈り物頂き物一覧に&lt;br&gt;遷移&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2894" y="550" width="175.77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IDzcrT9iDwPJEzhwluR_-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.812;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2289.19" y="997.86" as="sourcePoint" />
+            <mxPoint x="-2317.14" y="1032.86372" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2260" y="1070" />
+              <mxPoint x="-2300" y="1100" />
+              <mxPoint x="-2320" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDzcrT9iDwPJEzhwluR_-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;編集&lt;br&gt;遷移&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2304" y="1020" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
